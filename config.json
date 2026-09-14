@@ -1,3 +1,11 @@
 {
-  "members": []
+  "members": [
+    {
+      "id": "d",
+      "displayName": "d",
+      "color": "#E8748C",
+      "bgColor": "#fdf1f3",
+      "avatar": null
+    }
+  ]
 }
